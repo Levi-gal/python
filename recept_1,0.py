@@ -7,4 +7,4 @@ def rakott_krumpli(cheese_type, kolbasz_type, drink):
     print('A tepsit tegyük 200 fokra előmelegített sütőbe, és 1 órán át süssük a krumplit. Ha kész, vegyük ki, egy picit pihentessük, aztán már fogyaszthatjuk is!')
     print('Miután mindez kész, ' + drink + '. tálald')
 
-rakott_krumpli('Edami,füstölt_erős, sör')
+rakott_krumpli('Edami', 'füstölt_erős' , 'sör')
